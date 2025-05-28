@@ -1,0 +1,12 @@
+main{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    margin-right: 13rem;
+}
+.option{
+    text-align: center;
+}
